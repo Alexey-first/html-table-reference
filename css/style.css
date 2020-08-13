@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+  
+
+.table {
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+}
+td {
+    text-align: center;
+    border: 1 px solid grey;
+}
